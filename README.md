@@ -1,4 +1,8 @@
 # Modern Robotics:  Mechanics, Planning, and Control
+
+This fork has been modified to include only the MATLAB version of the Modern Robotics Library.
+The original README and LICENSE files have been preserved.
+
 # Code Library
 
 This repository contains the code library accompanying [_Modern Robotics: 
